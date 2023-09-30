@@ -356,12 +356,6 @@ East Asia & Pacific,EAS,2019,27000000000000.0
 East Asia & Pacific,EAS,2020,27100000000000.0
 East Asia & Pacific,EAS,2021,31100000000000.0
 East Asia & Pacific,EAS,2022,30700000000000.0
-East Asia & Pacific (excluding high income),EAP,2017,14900000000000.0
-East Asia & Pacific (excluding high income),EAP,2018,16600000000000.0
-East Asia & Pacific (excluding high income),EAP,2019,17200000000000.0
-East Asia & Pacific (excluding high income),EAP,2020,17500000000000.0
-East Asia & Pacific (excluding high income),EAP,2021,20800000000000.0
-East Asia & Pacific (excluding high income),EAP,2022,21200000000000.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2017,14900000000000.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2018,16600000000000.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2019,17200000000000.0
@@ -422,12 +416,6 @@ Europe & Central Asia,ECS,2019,22900000000000.0
 Europe & Central Asia,ECS,2020,22200000000000.0
 Europe & Central Asia,ECS,2021,25200000000000.0
 Europe & Central Asia,ECS,2022,25200000000000.0
-Europe & Central Asia (excluding high income),ECA,2017,3120000000000.0
-Europe & Central Asia (excluding high income),ECA,2018,3180000000000.0
-Europe & Central Asia (excluding high income),ECA,2019,3250000000000.0
-Europe & Central Asia (excluding high income),ECA,2020,2990000000000.0
-Europe & Central Asia (excluding high income),ECA,2021,3580000000000.0
-Europe & Central Asia (excluding high income),ECA,2022,4120000000000.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2017,3910000000000.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2018,4080000000000.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2019,4160000000000.0
@@ -556,12 +544,6 @@ Haiti,HTI,2019,15016090930.0
 Haiti,HTI,2020,14508222518.0
 Haiti,HTI,2021,20877414952.0
 Haiti,HTI,2022,20253551885.0
-Heavily indebted poor countries (HIPC),HPC,2017,810000000000.0
-Heavily indebted poor countries (HIPC),HPC,2018,771000000000.0
-Heavily indebted poor countries (HIPC),HPC,2019,799000000000.0
-Heavily indebted poor countries (HIPC),HPC,2020,809000000000.0
-Heavily indebted poor countries (HIPC),HPC,2021,899000000000.0
-Heavily indebted poor countries (HIPC),HPC,2022,970000000000.0
 Honduras,HND,2017,23136248046.0
 Honduras,HND,2018,24067750466.0
 Honduras,HND,2019,25089937109.0
@@ -592,24 +574,6 @@ Iceland,ISL,2019,24663643102.0
 Iceland,ISL,2020,21553080484.0
 Iceland,ISL,2021,25552639899.0
 Iceland,ISL,2022,27841648044.0
-IDA & IBRD total,IBT,2017,31000000000000.0
-IDA & IBRD total,IBT,2018,32900000000000.0
-IDA & IBRD total,IBT,2019,33600000000000.0
-IDA & IBRD total,IBT,2020,32500000000000.0
-IDA & IBRD total,IBT,2021,38200000000000.0
-IDA & IBRD total,IBT,2022,40400000000000.0
-IDA blend,IDB,2017,960000000000.0
-IDA blend,IDB,2018,1050000000000.0
-IDA blend,IDB,2019,1070000000000.0
-IDA blend,IDB,2020,1000000000000.0
-IDA blend,IDB,2021,1100000000000.0
-IDA blend,IDB,2022,1170000000000.0
-IDA only,IDX,2017,1330000000000.0
-IDA only,IDX,2018,1320000000000.0
-IDA only,IDX,2019,1390000000000.0
-IDA only,IDX,2020,1410000000000.0
-IDA only,IDX,2021,1530000000000.0
-IDA only,IDX,2022,1640000000000.0
 IDA total,IDA,2017,2290000000000.0
 IDA total,IDA,2018,2370000000000.0
 IDA total,IDA,2019,2460000000000.0
@@ -728,24 +692,12 @@ Lao PDR,LAO,2019,18740559554.0
 Lao PDR,LAO,2020,18981800705.0
 Lao PDR,LAO,2021,18827148530.0
 Lao PDR,LAO,2022,15724383783.0
-Late-demographic dividend,LTE,2017,20600000000000.0
-Late-demographic dividend,LTE,2018,22600000000000.0
-Late-demographic dividend,LTE,2019,23000000000000.0
-Late-demographic dividend,LTE,2020,22500000000000.0
-Late-demographic dividend,LTE,2021,26800000000000.0
-Late-demographic dividend,LTE,2022,28100000000000.0
 Latin America & Caribbean,LCN,2017,5830000000000.0
 Latin America & Caribbean,LCN,2018,5710000000000.0
 Latin America & Caribbean,LCN,2019,5620000000000.0
 Latin America & Caribbean,LCN,2020,4780000000000.0
 Latin America & Caribbean,LCN,2021,5510000000000.0
 Latin America & Caribbean,LCN,2022,6250000000000.0
-Latin America & Caribbean (excluding high income),LAC,2017,4980000000000.0
-Latin America & Caribbean (excluding high income),LAC,2018,4840000000000.0
-Latin America & Caribbean (excluding high income),LAC,2019,4770000000000.0
-Latin America & Caribbean (excluding high income),LAC,2020,4020000000000.0
-Latin America & Caribbean (excluding high income),LAC,2021,4620000000000.0
-Latin America & Caribbean (excluding high income),LAC,2022,5300000000000.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,5590000000000.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,5460000000000.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,5370000000000.0
@@ -758,12 +710,6 @@ Latvia,LVA,2019,34343961073.0
 Latvia,LVA,2020,34601740323.0
 Latvia,LVA,2021,39725383601.0
 Latvia,LVA,2022,41153912663.0
-Least developed countries: UN classification,LDC,2017,1100000000000.0
-Least developed countries: UN classification,LDC,2018,1090000000000.0
-Least developed countries: UN classification,LDC,2019,1140000000000.0
-Least developed countries: UN classification,LDC,2020,1160000000000.0
-Least developed countries: UN classification,LDC,2021,1270000000000.0
-Least developed countries: UN classification,LDC,2022,1420000000000.0
 Lebanon,LBN,2017,53027680686.0
 Lebanon,LBN,2018,54901519156.0
 Lebanon,LBN,2019,51605959131.0
@@ -882,12 +828,6 @@ Middle East & North Africa,MEA,2019,3520000000000.0
 Middle East & North Africa,MEA,2020,3160000000000.0
 Middle East & North Africa,MEA,2021,3740000000000.0
 Middle East & North Africa,MEA,2022,4410000000000.0
-Middle East & North Africa (excluding high income),MNA,2017,1480000000000.0
-Middle East & North Africa (excluding high income),MNA,2018,1400000000000.0
-Middle East & North Africa (excluding high income),MNA,2019,1410000000000.0
-Middle East & North Africa (excluding high income),MNA,2020,1280000000000.0
-Middle East & North Africa (excluding high income),MNA,2021,1510000000000.0
-Middle East & North Africa (excluding high income),MNA,2022,1680000000000.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2017,1460000000000.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2018,1380000000000.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2019,1390000000000.0
@@ -1069,12 +1009,6 @@ Portugal,PRT,2019,240000000000.0
 Portugal,PRT,2020,229000000000.0
 Portugal,PRT,2021,254000000000.0
 Portugal,PRT,2022,252000000000.0
-Pre-demographic dividend,PRE,2017,1290000000000.0
-Pre-demographic dividend,PRE,2018,1350000000000.0
-Pre-demographic dividend,PRE,2019,1420000000000.0
-Pre-demographic dividend,PRE,2020,1310000000000.0
-Pre-demographic dividend,PRE,2021,1430000000000.0
-Pre-demographic dividend,PRE,2022,1610000000000.0
 Puerto Rico,PRI,2017,103000000000.0
 Puerto Rico,PRI,2018,101000000000.0
 Puerto Rico,PRI,2019,105000000000.0
